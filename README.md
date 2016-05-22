@@ -12,7 +12,7 @@ Some Android App Developed by 1anc3r
 | [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#snake)              | http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk                                          |
 | [XiYouSign](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign)      | http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk                                               |
 | [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyoucanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.iorder.apk                                                   |
-| [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airFree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
+| [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airfree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
 
 ## Detail
 
