@@ -4,15 +4,15 @@ Some Android App Developed by 1anc3r
 ## App List
 | Name        | DownLoad      |
 | ----------- | ------------- |
-| [Calculator](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#Calculator)    | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk                                               |
-| [Contacts](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#Contacts)        |  http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk                                                 |
-| [Clock](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#Clock)              | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk                                                    |
-| [Weather](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#Weather)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk                                                  |
+| [Calculator](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#calculator)    | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk                                               |
+| [Contacts](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#contacts)        |  http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk                                                 |
+| [Clock](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#clock)              | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk                                                    |
+| [Weather](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#weather)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk                                                  |
 | [2048](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#2048)                | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk                                                 |
-| [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#Snake)              | http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk                                          |
-| [XiYouSign](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#XiYouSign)      | http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk                                               |
-| [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#XiYouCanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.iorder.apk                                                   |
-| [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#AirFree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
+| [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#snake)              | http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk                                          |
+| [XiYouSign](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#xiyousign)      | http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk                                               |
+| [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#xiyoucanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.iorder.apk                                                   |
+| [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/edit/master/README.md#airFree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
 
 ## Detail
 
