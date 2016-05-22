@@ -107,7 +107,8 @@ Practiced hand items. I helped develop senior seniors graduation. Bmob.
 
 #### Introduction
 You can through my other [article](https://github.com/1anc3r/AirFree-Client) about this app.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk)
+[Click here to download client](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk)
+[Click here to download server](http://pan.baidu.com/s/1gf8pGgb)
 
 #### Screenshot
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-17-21-51.png" width = "432" height = "768" alt="File Management" />
