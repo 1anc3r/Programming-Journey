@@ -10,7 +10,7 @@ Some Android App Developed by 1anc3r
 | [Weather](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#weather)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk                                                  |
 | [2048](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#2048)                | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk                                                 |
 | [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#snake)              | http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk                                          |
-| [XiYouSign](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign)      | http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk                                               |
+| [XiYouBillboard](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign)      | http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk                                               |
 | [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyoucanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.iorder.apk                                                   |
 | [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airfree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
 
@@ -76,7 +76,7 @@ After I learn Android gesture, this was the first Android app I developed. I joi
 #### Screenshot
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-29-26.png" width = "432" height = "768" alt="Snake" />
 
-### XiYouSign
+### XiYouBillboard
 <img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt="XiYouSign"/>
 
 #### Introduction
