@@ -10,8 +10,8 @@ Some Android App Developed by 1anc3r
 | [Weather](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#weather)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk                                                  |
 | [2048](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#2048)                | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk                                                 |
 | [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#snake)              | http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk                                          |
-| [XiYouBillboard](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign)      | http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk                                               |
-| [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyoucanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.iorder.apk                                                   |
+| [XiYouBillboard](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign) | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk                                           |
+| [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyoucanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoucanteen.apk                                             |
 | [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airfree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
 
 ## Detail
@@ -81,7 +81,7 @@ After I learn Android gesture, this was the first Android app I developed. I joi
 
 #### Introduction
 Practiced hand items. I helped develop senior seniors graduation. Bmob.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/com.lianglei.icampus.apk)
+[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
 
 #### Screenshot
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-48.png" width = "432" height = "768" alt="Announcement" />
@@ -94,7 +94,7 @@ Practiced hand items. I helped develop senior seniors graduation. Bmob.
 
 #### Introduction
 Practiced hand items. I helped develop senior seniors graduation. Bmob.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.iorder.apk)
+[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoucanteen.apk)
 
 #### Screenshot
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-23-56.png" width = "432" height = "768" alt="1" />
