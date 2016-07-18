@@ -12,7 +12,7 @@ Some Android App Developed by 1anc3r
 | [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#snake)              | http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk                                          |
 | [XiYouBillboard](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign) | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk                                           |
 | [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyoucanteen)| http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoucanteen.apk                                             |
-| [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airfree)          | http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk                                                  |
+| [AirFree](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airfree)          | http://o7gy5l0ax.bkt.clouddn.com/app-debug.apk                                                  |
 
 ## Detail
 
@@ -107,7 +107,7 @@ Practiced hand items. I helped develop senior seniors graduation. Bmob.
 
 #### Introduction
 You can through my other [article](https://github.com/1anc3r/AirFree-Client) about this app.
-[Click here to download client](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.airfree.apk)
+[Click here to download client](http://o7gy5l0ax.bkt.clouddn.com/app-debug.apk)
 [Click here to download server](http://pan.baidu.com/s/1gf8pGgb)
 
 #### Screenshot
