@@ -136,6 +136,18 @@ You can through my other [article](https://github.com/1anc3r/AirFree-Client) abo
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-36-12.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-36-25.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-35-53.png" width = "288" height = "512" alt=""/>
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-20-07-16.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-39-04.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-38-58.png" width = "288" height = "512" alt=""/>
 
+### 西邮记
+<img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt="AirFree"/>
+
+#### Introduction
+You can through my other [article](https://github.com/1anc3r/XUPT) about this app.
+
+### 七磅
+<img src="https://camo.githubusercontent.com/93b693b04282a15d3df610d6451392736260033a/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f736576656e706f756e64732e706e67" width = "96" height = "96" alt="AirFree"/>
+
+#### Introduction
+You can through my other [article](https://github.com/1anc3r/SevenPounds) about this app.
+
 ## About Me
 A student of Xi'an University of Posts and Telecommunications in mainland China. Currently learning Android development.
 My blog address is [www.1anc3r.me](www.1anc3r.me). Welcome to offer me an internship. If you have any idea about this project, feel free to contact me. :smiley:
