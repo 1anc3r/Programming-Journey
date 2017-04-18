@@ -24,7 +24,7 @@ The first Android app I developed. I use the stack so that it can be a complex p
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "432" height = "768" alt="Calculator" />
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
 
 ### Contacts
 <img src="http://o7gy5l0ax.bkt.clouddn.com/contacts.png" width = "96" height = "96" alt="Contacts"/>
@@ -34,7 +34,7 @@ I used to have a grouping navigation technology, extrusion animation, fast scrol
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-12-50-48.png" width = "432" height = "768" alt="Contacts" />
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-12-50-48.png" width = "288" height = "512" alt="" />
 
 ### Clock
 <img src="http://o7gy5l0ax.bkt.clouddn.com/clock.png" width = "96" height = "96" alt="Clock"/>
@@ -44,7 +44,7 @@ After I learn Android thread, this was the first Android app I developed. the ma
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-12-48.png" width = "432" height = "768" alt="Clock" />
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-12-48.png" width = "288" height = "512" alt="" />
 
 ### Weather
 <img src="http://o7gy5l0ax.bkt.clouddn.com/weather.png" width = "96" height = "96" alt="Weather"/>
@@ -54,7 +54,7 @@ After I learn Android request API and parse Json, this was the first Android app
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-06-56.png" width = "432" height = "768" alt="Weather" />
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-06-56.png" width = "288" height = "512" alt="" />
 
 ### 2048
 <img src="http://o7gy5l0ax.bkt.clouddn.com/2048.png" width = "96" height = "96" alt="2048"/>
@@ -64,7 +64,7 @@ After I learn Android animation, this was the first Android app I developed. Thi
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-26-00.png" width = "432" height = "768" alt="2048" />
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-26-00.png" width = "288" height = "512" alt="" />
 
 ### Snake
 <img src="http://o7gy5l0ax.bkt.clouddn.com/snake.png" width = "96" height = "96" alt="Snake"/>
@@ -74,7 +74,7 @@ After I learn Android gesture, this was the first Android app I developed. I joi
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-29-26.png" width = "432" height = "768" alt="Snake" />
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-29-26.png" width = "288" height = "512" alt="" />
 
 ### XiYouBillboard
 <img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt="XiYouSign"/>
@@ -84,10 +84,7 @@ Practice.
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-48.png" width = "432" height = "768" alt="Announcement" />
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-55.png" width = "432" height = "768" alt="Important News"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-01.png" width = "432" height = "768" alt="Students Forum"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-08.png" width = "432" height = "768" alt="Control Center"/>
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-48.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-55.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-01.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-08.png" width = "288" height = "512" alt="" />
 
 ### XiYouCanteen
 <img src="http://o7gy5l0ax.bkt.clouddn.com/nova_144px_1145332_easyicon.net.png" width = "96" height = "96" alt="XiYouCanteen"/>
@@ -97,10 +94,7 @@ Practice.
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoucanteen.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-23-56.png" width = "432" height = "768" alt="1" />
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-09.png" width = "432" height = "768" alt="2"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-15.png" width = "432" height = "768" alt="3"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-52.png" width = "432" height = "768" alt="4"/>
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-23-56.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-09.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-15.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-52.png" width = "288" height = "512" alt="" />
 
 ### IMovie
 <img src="http://o7gy5l0ax.bkt.clouddn.com/imovie_icon.png" width = "96" height = "96" alt="XiYouCanteen"/>
@@ -110,12 +104,7 @@ Practice.
 [Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.imovie.apk)
 
 #### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-09.png" width = "432" height = "768" alt="1" />
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-14.png" width = "432" height = "768" alt="2"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-44.png" width = "432" height = "768" alt="3"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-50-35.png" width = "432" height = "768" alt="4"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-51-17.png" width = "432" height = "768" alt="5"/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-51-28.png" width = "432" height = "768" alt="6"/>
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-09.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-14.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-44.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-50-35.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-51-17.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-51-28.png" width = "288" height = "512" alt="" />
 
 ### AirFree
 <img src="http://o7gy5l0ax.bkt.clouddn.com/telegram_144px_1145402_easyicon.net.png" width = "96" height = "96" alt="AirFree"/>
