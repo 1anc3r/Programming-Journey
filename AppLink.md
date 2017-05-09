@@ -1,4 +1,5 @@
-{apps: [
+
+{apps:[
 {
 name: "AirFree远程协助",
 description: "AirFree远程协助是一款远程协助工具类应用，不仅支持手机与电脑间上传下载资源，还实现了手机多种方式远程控制电脑，基于Windows和Android平台。 ",
