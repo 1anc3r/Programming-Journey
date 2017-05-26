@@ -179,7 +179,68 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
+---
+# 软件工程课程设计——影院管理系统(Cinema-Management-System)
 
+# Android版
+
+## 应用简介:
+大三下期 Android 课程设计。
+=
+[项目链接](https://github.com/1anc3r/Cinema-Management-System-Android)
+
+## 应用截图:
+暂无截图
+
+# Java Web版
+
+## 应用简介:
+大三上期 Java Web 课程设计，Servlet、JDBC、MVC。
+
+[网页地址](http://111.231.1.112/CinemaManagementSystem)
+[项目链接](https://github.com/1anc3r/Cinema-Management-System-Web)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/Cinema-Management-System-Web/blob/master/screenshot/chrome_2017-05-14_17-29-14.png" width = "959" height = "465" alt="2" />
+
+# Java GUI版
+
+## 应用简介:
+大二下期 Java GUI 课程设计，Java Swing、JDBC、MVC。
+
+[项目链接](https://github.com/1anc3r/Cinema-Management-System-Java)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/screenshot/20160623104728.png" width = "1092" height = "500" alt="6" />
+
+# C语言命令行版
+
+## 应用简介:
+大一下期C语言课程设计，链表、文件读写、光标控制。
+
+[项目链接](https://github.com/1anc3r/Cinema-Management-System-C)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/cinema1.jpeg" width = "320" height = "1883" alt="1" /><img src="http://o7gy5l0ax.bkt.clouddn.com/cinema2.jpeg" width = "320" height = "1883" alt="2" />
+---
+# 八皇后(8 Queen)
+<img src="https://github.com/1anc3r/8-Queen/blob/master/2017-04-23_15-33-15.gif" width = "329" height = "338" alt="FileView"/>
+
+## 应用简介:
+大二学习算法和Java GUI的时候开发的项目。
+
+## 应用截图:
+<img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/2017-04-23_15-41-49.gif" width = "329" height = "338" alt="FileView"/>
+
+# 马踏棋盘(Horse Riding Board)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/horse.png" width = "96" height = "96" alt="FileView"/>
+
+## 应用简介:
+大二学习算法和Java GUI的时候开发的项目。
+
+## 应用截图:
+<img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/2017-04-23_15-41-49.gif" width = "329" height = "338" alt="FileView"/>
+---
 # 关于
 ### 组织
 <img src="http://o7gy5l0ax.bkt.clouddn.com/ic_xiyoumobile.png" width = "100" height = "100" alt=""/>
