@@ -179,13 +179,13 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
+
 ---
-# 软件工程课程设计——影院管理系统(Cinema-Management-System)
 
 # Android版(Cinema-Management-System-Android)
 
 ## 应用简介:
-大三下期 Android 课程设计。
+大三下期 Android 软件工程课程设计。
 
 [项目链接](https://github.com/1anc3r/Cinema-Management-System-Android)
 
@@ -195,7 +195,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 # Java Web版(Cinema-Management-System-Web)
 
 ## 应用简介:
-大三上期 Java Web 课程设计，Servlet、JDBC、MVC。
+大三上期 Java Web 软件工程课程设计，Servlet、JDBC、MVC。
 
 [网页地址](http://111.231.1.112/CinemaManagementSystem)
 [项目链接](https://github.com/1anc3r/Cinema-Management-System-Web)
@@ -206,7 +206,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 # Java GUI版(Cinema-Management-System-Java)
 
 ## 应用简介:
-大二下期 Java GUI 课程设计，Java Swing、JDBC、MVC。
+大二下期 Java GUI 软件工程课程设计，Java Swing、JDBC、MVC。
 
 [项目链接](https://github.com/1anc3r/Cinema-Management-System-Java)
 
@@ -216,7 +216,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 # C语言命令行版(Cinema-Management-System-C)
 
 ## 应用简介:
-大一下期C语言课程设计，链表、文件读写、光标控制。
+大一下期C语言软件工程课程设计，链表、文件读写、光标控制。
 
 [项目链接](https://github.com/1anc3r/Cinema-Management-System-C)
 
