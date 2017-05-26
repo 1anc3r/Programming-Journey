@@ -3,7 +3,7 @@
 
 ---
 # 滑稽脸漫画(ComicFace-Java)
-<img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
 
 ## 应用简介:
 滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Java开发，数据来自有妖气漫画。
