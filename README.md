@@ -2,35 +2,20 @@
 那些年我写过的应用(按照时间由近及远排序)
 
 ---
-# 滑稽脸漫画(ComicFace-Java)
-<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
+# 滑稽脸漫画(ComicFace)
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/><img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
-滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Java开发，数据来自有妖气漫画。
+滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。分别使用Kotlin和Java开发，数据来自有妖气漫画。
 
 [Kotlin版](https://github.com/1anc3r/ComicFace-Kotlin)
 
-[项目链接](https://github.com/1anc3r/ComicFace-Java)
+[Java版](https://github.com/1anc3r/ComicFace-Java)
 
 [下载链接](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
 
 ## 应用截图:
 <img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
-
-# 滑稽脸漫画(ComicFace-Kotlin)
-<img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
-
-## 应用简介:
-滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Kotlin开发，数据来自有妖气漫画。
-
-[Java版](https://github.com/1anc3r/ComicFace-Java)
-
-[项目链接](https://github.com/1anc3r/ComicFace-Kotlin)
-
-[下载链接](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
-
-## 应用截图:
-<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091151.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091101.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091155.png" width = "288" height = "512" alt=""/>
 
 # 成都医学院教务
 <img src="https://github.com/1anc3r/CMC/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
