@@ -186,7 +186,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 大三下期 Android 课程设计。
-=
+
 [项目链接](https://github.com/1anc3r/Cinema-Management-System-Android)
 
 ## 应用截图:
