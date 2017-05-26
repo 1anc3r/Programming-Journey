@@ -2,6 +2,49 @@
 那些年我写过的应用
 
 ---
+# 滑稽脸漫画(ComicFace-Java)
+<img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+
+## 应用简介:
+滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Java开发，数据来自有妖气漫画。
+
+[Kotlin版](https://github.com/1anc3r/ComicFace-Kotlin)
+
+[项目链接](https://github.com/1anc3r/ComicFace-Java)
+
+[下载链接](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
+
+# 滑稽脸漫画(ComicFace-Kotlin)
+<img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+
+## 应用简介:
+滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Kotlin开发，数据来自有妖气漫画。
+
+[Java版](https://github.com/1anc3r/ComicFace-Java)
+
+[项目链接](https://github.com/1anc3r/ComicFace-Kotlin)
+
+[下载链接](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091151.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091101.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091155.png" width = "288" height = "512" alt=""/>
+
+# 成都医学院教务
+<img src="https://github.com/1anc3r/CMC/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="AirFree"/>
+
+## 应用简介:
+成都医学院教务是一款教务信息查询应用。 
+
+[项目链接](https://github.com/1anc3r/CMC)
+
+[下载链接](https://github.com/1anc3r/CMC/blob/master/screenshot/cmc_alpha_0.0.1.apk)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-06.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-02.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_17-01-34.png" width = "288" height = "512" alt=""/>
+
 # 无疾(已上线)
 <img src="https://github.com/1anc3r/NoDiseases/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
 
@@ -54,11 +97,13 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-32.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-43-27.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-51.png" width = "288" height = "512" alt=""/>
 
-# 校园告示牌
+# 西邮告示牌
 <img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt="XiYouSign"/>
 
 ## 应用简介:
 大二接的项目，Bmob的后台，拥有完整的业务逻辑：用户登录、注册、忘记密码、发表；管理员审核、加精；文章分类、搜索...
+
+[项目链接](https://github.com/1anc3r/IBillboard)
 
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
 
@@ -70,6 +115,8 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习手势的时候在Google Example的基础上开发的项目，Google Example中的贪吃蛇是Android早期版本而且不支持手势操作(大概是那时候的Android手机大多是实体键)。开发的过程中分为两个阶段：第一个阶段实现了触摸点与屏幕中心的相对方向就是蛇的运动方向；第二个阶段实现了手势滑动方向就是蛇的运动方向。通过这个项目学习了View事件机制以及处理方法。
+
+[项目链接](https://github.com/1anc3r/Snake)
 
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)
 
@@ -125,6 +172,8 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习Android的时候开发的第一个项目，刚开始只有简单的Button事件监听，学习(栈实现)多项式运算后进行了改进。通过这个项目，学习了Button事件的多种监听方式、通过栈实现的多项式运算算法。
+
+[项目链接](https://github.com/1anc3r/Calcultor)
 
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
 
