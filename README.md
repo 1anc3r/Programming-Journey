@@ -3,7 +3,7 @@
 
 ---
 # 滑稽脸漫画(ComicFace-Java)
-<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Java开发，数据来自有妖气漫画。
@@ -18,7 +18,7 @@
 <img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
 
 # 滑稽脸漫画(ComicFace-Kotlin)
-<img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+<img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Kotlin开发，数据来自有妖气漫画。
@@ -33,7 +33,7 @@
 <img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091151.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091101.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091155.png" width = "288" height = "512" alt=""/>
 
 # 成都医学院教务
-<img src="https://github.com/1anc3r/CMC/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="AirFree"/>
+<img src="https://github.com/1anc3r/CMC/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 成都医学院教务是一款教务信息查询应用。 
@@ -46,7 +46,7 @@
 <img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-06.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-02.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_17-01-34.png" width = "288" height = "512" alt=""/>
 
 # 无疾(已上线)
-<img src="https://github.com/1anc3r/NoDiseases/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+<img src="https://github.com/1anc3r/NoDiseases/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 无疾 —— 即没有疾病。旨在提供疾病自查及医疗资讯的资讯类应用。
@@ -59,7 +59,7 @@
 <img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221636.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221642.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221646.png?raw=true" width = "288" height = "512" alt=""/>
 
 # 七磅(已上线)
-<img src="https://camo.githubusercontent.com/93b693b04282a15d3df610d6451392736260033a/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f736576656e706f756e64732e706e67" width = "96" height = "96" alt="AirFree"/>
+<img src="https://camo.githubusercontent.com/93b693b04282a15d3df610d6451392736260033a/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f736576656e706f756e64732e706e67" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 七磅（榜）—— 灵魂的重量。 汇（pa）聚（qu）网络优质信息于七张榜单，为灵魂增重。项目采用 MVP 架构，使用 Okhttp 和 Volley 加载数据与图片，并使用 ImageLoader 对图片进行缓存，使用 RecyclerView 加载多种布局，结合下拉刷新上拉加载实现瀑布流，使用外部拦截法解决 NestedScrollView 嵌套 RecyclerView 滑动冲突，解决 WebView 内存泄漏。通过此项目熟悉了 MVP 设计思想，掌握了图片缓存实现原理，学习了 Volley源码设计，学习了Android的性能优化技巧。 
@@ -72,7 +72,7 @@
 <img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085145.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085146.gif?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085149.png?raw=true" width = "288" height = "512" alt=""/>
 
 # 西邮记(已上线)
-<img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt="AirFree"/>
+<img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 西邮记是一款教务信息查询应用（已上线），应用实现了课表、成绩查询，考勤记 录查询、统计及申诉，图书借阅查询、续借及收藏，英语四六级查询。 项目采用 MVP 架构，使用自定义 View 实现课表布局，使用 RemoteView 实现桌面小组件，通过OkHttp获取Json数据，使用Jsoup解析处理。通过此项目掌握了MVP设计思想，掌握了基于HTTP的网络编程，掌握了自定义View。 
@@ -98,7 +98,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-32.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-43-27.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-51.png" width = "288" height = "512" alt=""/>
 
 # 西邮告示牌
-<img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt="XiYouSign"/>
+<img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 大二接的项目，Bmob的后台，拥有完整的业务逻辑：用户登录、注册、忘记密码、发表；管理员审核、加精；文章分类、搜索...
