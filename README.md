@@ -182,7 +182,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 ---
 # 软件工程课程设计——影院管理系统(Cinema-Management-System)
 
-# Android版
+# Android版(Cinema-Management-System-Android)
 
 ## 应用简介:
 大三下期 Android 课程设计。
@@ -192,7 +192,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 ## 应用截图:
 暂无截图
 
-# Java Web版
+# Java Web版(Cinema-Management-System-Web)
 
 ## 应用简介:
 大三上期 Java Web 课程设计，Servlet、JDBC、MVC。
@@ -203,7 +203,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 ## 应用截图:
 <img src="https://github.com/1anc3r/Cinema-Management-System-Web/blob/master/screenshot/chrome_2017-05-14_17-29-14.png" width = "959" height = "465" alt="2" />
 
-# Java GUI版
+# Java GUI版(Cinema-Management-System-Java)
 
 ## 应用简介:
 大二下期 Java GUI 课程设计，Java Swing、JDBC、MVC。
@@ -213,7 +213,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 ## 应用截图:
 <img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/screenshot/20160623104728.png" width = "1092" height = "500" alt="6" />
 
-# C语言命令行版
+# C语言命令行版(Cinema-Management-System-C)
 
 ## 应用简介:
 大一下期C语言课程设计，链表、文件读写、光标控制。
@@ -223,23 +223,68 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/cinema1.jpeg" width = "320" height = "1883" alt="1" /><img src="http://o7gy5l0ax.bkt.clouddn.com/cinema2.jpeg" width = "320" height = "1883" alt="2" />
 ---
-# 八皇后(8 Queen)
-<img src="https://github.com/1anc3r/8-Queen/blob/master/2017-04-23_15-33-15.gif" width = "329" height = "338" alt="FileView"/>
+# 八皇后(8-Queen)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/queen.png" width = "96" height = "96" alt="FileView"/>
 
 ## 应用简介:
 大二学习算法和Java GUI的时候开发的项目。
 
-## 应用截图:
-<img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/2017-04-23_15-41-49.gif" width = "329" height = "338" alt="FileView"/>
+[项目链接](https://github.com/1anc3r/8-Queen)
 
-# 马踏棋盘(Horse Riding Board)
+## 应用截图:
+<img src="https://github.com/1anc3r/8-Queen/blob/master/2017-04-23_15-33-15.gif" width = "329" height = "338" alt="FileView"/>
+
+# 马踏棋盘(Horse-Riding-Board)
 <img src="http://o7gy5l0ax.bkt.clouddn.com/horse.png" width = "96" height = "96" alt="FileView"/>
 
 ## 应用简介:
 大二学习算法和Java GUI的时候开发的项目。
 
+[项目链接](https://github.com/1anc3r/Horse-Riding-Board)
+
 ## 应用截图:
 <img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/2017-04-23_15-41-49.gif" width = "329" height = "338" alt="FileView"/>
+
+# Python图片爬虫(Pic-Spider)
+
+## 应用简介:
+大一学习Python的时候开发的项目。
+
+[项目链接](https://github.com/1anc3r/Pic-Spider)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160520203038.png" width = "400" height = "223" alt="File Management" />
+
+# 哈夫曼文件压缩器(File-Compression-Decompression)
+
+## 应用简介:
+大二学习数据结构与算法分析的课程设计。
+
+[项目链接](https://github.com/1anc3r/File-Compression-Decompression)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160803215207.png" width = "400" height = "400" alt="1"/>
+
+# C语言多项式运算器(Polynomial-Function-Operator)
+
+## 应用简介:
+大二学习数据结构与算法分析的时候开发的项目，采用栈实现。
+
+[项目链接](https://github.com/1anc3r/Polynomial-Function-Operator)
+
+## 应用截图:
+暂无截图
+
+# C语言学生管理系统(Student-Management-System)
+
+## 应用简介:
+大一学习C语言链表的时候开发的项目，当时感觉写了超多代码😭
+
+[项目链接](https://github.com/1anc3r/Student-Management-System)
+
+## 应用截图:
+暂无截图
+
 ---
 # 关于
 ### 组织
