@@ -1,108 +1,82 @@
 # 1anc3r-s-Android-App-List
 Some Android App Developed by 1anc3r
 
-## App List
-| Name        | DownLoad      |
-| ----------- | ------------- |
-| [Calculator](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#calculator)    | [me.lancer.calculator.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)                   |
-| [Contacts](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#contacts)        |  [me.lancer.contacts.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)                       |
-| [Clock](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#clock)              | [me.lancer.clock.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)                             |
-| [Weather](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#weather)          | [me.lancer.weather.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)                         |
-| [2048](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#2048)                | [me.lancer.game2048.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk)                       |
-| [Snake](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#snake)              | [com.example.android.snake.apk](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)         |
-| [XiYouBillboard](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyousign) | [me.lancer.xiyoubillboard.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)           |
-| [XiYouCanteen](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#xiyoucanteen)| [me.lancer.xiyoucanteen.apk](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoucanteen.apk)               |
-| [AirFree-Client](https://github.com/1anc3r/1anc3r-s-Android-App-List/blob/master/README.md#airfree)   | [me.lancer.airfree.apk](http://o7gy5l0ax.bkt.clouddn.com/AirFree-Client.apk)                            |
 
-## Detail
-
-### 2048
-<img src="http://o7gy5l0ax.bkt.clouddn.com/2048.png" width = "96" height = "96" alt="2048"/>
-
-#### Introduction
-After I learn Android animation, this was the first Android app I developed. This app is most fun app I developed.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-26-00.png" width = "288" height = "512" alt="" />
-
-### Snake
-<img src="http://o7gy5l0ax.bkt.clouddn.com/snake.png" width = "96" height = "96" alt="Snake"/>
-
-#### Introduction
-After I learn Android gesture, this was the first Android app I developed. I joined the gesture control on the basis of the demo on Google. This app is second fun app I developed.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-29-26.png" width = "288" height = "512" alt="" />
-
-### XiYouBillboard
-<img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt="XiYouSign"/>
-
-#### Introduction
-Practice.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-48.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-55.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-01.png" width = "288" height = "512" alt="" />
-
-### XiYouCanteen
-<img src="http://o7gy5l0ax.bkt.clouddn.com/nova_144px_1145332_easyicon.net.png" width = "96" height = "96" alt="XiYouCanteen"/>
-
-#### Introduction
-Practice.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoucanteen.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-23-56.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-09.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-24-15.png" width = "288" height = "512" alt="" />
-
-### IMovie
-<img src="http://o7gy5l0ax.bkt.clouddn.com/imovie_icon.png" width = "96" height = "96" alt="XiYouCanteen"/>
-
-#### Introduction
-Practice.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.imovie.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-09.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-14.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-49-44.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-50-35.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-51-17.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-26-08-51-28.png" width = "288" height = "512" alt="" />
-
-### AirFree
-<img src="http://o7gy5l0ax.bkt.clouddn.com/telegram_144px_1145402_easyicon.net.png" width = "96" height = "96" alt="AirFree"/>
-
-#### Introduction
-You can through my other [article](https://github.com/1anc3r/AirFree-Client) about this app.
-
-[Click here to download client](http://o7gy5l0ax.bkt.clouddn.com/AirFree-Client.apk)
-
-[Click here to download server](http://pan.baidu.com/s/1jINMhds)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-32.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-43-27.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-51.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-32-42.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-32-35.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-32-51.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-33-53.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-34-02.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-34-08.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-34-24.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-35-32.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-36-17.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-35-43.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-36-05.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/%E9%81%A5%E6%8E%A7_%E5%B1%8F%E5%B9%95%E6%8A%93%E5%8F%96.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-36-12.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-36-25.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-35-53.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-20-07-16.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-39-04.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-38-58.png" width = "288" height = "512" alt=""/>
-
-### 西邮记
-<img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt="AirFree"/>
-
-#### Introduction
-You can through my other [article](https://github.com/1anc3r/XUPT) about this app.
-
-### 七磅
+# 七磅(已上线)
 <img src="https://camo.githubusercontent.com/93b693b04282a15d3df610d6451392736260033a/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f736576656e706f756e64732e706e67" width = "96" height = "96" alt="AirFree"/>
 
-#### Introduction
-You can through my other [article](https://github.com/1anc3r/SevenPounds) about this app.
+## 应用简介:
+七磅（榜）—— 灵魂的重量。 汇（pa）聚（qu）网络优质信息于七张榜单，为灵魂增重。项目采用 MVP 架构，使用 Okhttp 和 Volley 加载数据与图片，并使用 ImageLoader 对图片进行缓存，使用 RecyclerView 加载多种布局，结合下拉刷新上拉加载实现瀑布流，使用外部拦截法解决 NestedScrollView 嵌套 RecyclerView 滑动冲突，解决 WebView 内存泄漏。通过此项目熟悉了 MVP 设计思想，掌握了图片缓存实现原理，学习了 Volley源码设计，学习了Android的性能优化技巧。 
+
+[项目链接](https://github.com/1anc3r/SevenPounds)
+
+[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.sevenpounds)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085145.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085146.gif?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085149.png?raw=true" width = "288" height = "512" alt=""/>
+
+# 西邮记(已上线)
+<img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt="AirFree"/>
+
+## 应用简介:
+西邮记是一款教务信息查询应用（已上线），应用实现了课表、成绩查询，考勤记 录查询、统计及申诉，图书借阅查询、续借及收藏，英语四六级查询。 项目采用 MVP 架构，使用自定义 View 实现课表布局，使用 RemoteView 实现桌面小组件，通过OkHttp获取Json数据，使用Jsoup解析处理。通过此项目掌握了MVP设计思想，掌握了基于HTTP的网络编程，掌握了自定义View。 
+
+[项目链接](https://github.com/1anc3r/XUPT)
+
+[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.xupt&apkCode=5)
+
+## 应用截图:
+<img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412931.gif" width = "288" height = "512" alt="" /><img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412932.gif" width = "288" height = "512" alt=""/><img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412933.gif" width = "288" height = "512" alt=""/>
+
+# AirFree(已上线)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/telegram_144px_1145402_easyicon.net.png" width = "96" height = "96" alt="AirFree"/>
+
+## 应用简介:
+AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应用，能够为用户提供 Android 和 Windows 之间远程资源共享和设备控制功能，你不仅可以远程管理电脑中的资源，实现无线双向传输，还可以让 Android 手机摇身一变成为无线遥控器远程控制电脑。项目中文件管理功能通过 Environment 获取内外部存储，通过 ContentProvider 获取图片音乐视频。远程控制功能以 Socket 作为传输手段，以 Json 作为传输格式，以 AsyncTask、IntentService 完成远程控制传输操作，使用 Touch 和 Gesture 完成鼠标手势， 使用BitmapFactory处理图片实现远程桌面，使用ZXing实现二维码扫描，使用科大讯飞实现语音控制。通过此项目熟悉了 Android 四大组件的工作过程，掌握了基于 Socket 的网络编程， 掌握了Android的多线程编程，培养了使用第三方SDK的能力。 
+
+[项目链接](https://github.com/1anc3r/AirFree-Client)
+
+[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.airfree&apkCode=8)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-32.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-43-27.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-51.png" width = "288" height = "512" alt=""/>
+
+# 校园告示牌
+<img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt="XiYouSign"/>
+
+## 应用简介:
+大二接的项目，Bmob的后台，拥有完整的业务逻辑：用户登录、注册、忘记密码、发表；管理员审核、加精；文章分类、搜索...
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-48.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-55.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-01.png" width = "288" height = "512" alt="" />
+
+# 贪吃蛇(Snake)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/snake.png" width = "96" height = "96" alt="Snake"/>
+
+## 应用简介:
+学习手势的时候在Google Example的基础上开发的项目，Google Example中的贪吃蛇是Android早期版本而且不支持手势操作(大概是那时候的Android手机大多是实体键)。开发的过程中分为两个阶段：第一个阶段实现了触摸点与屏幕中心的相对方向就是蛇的运动方向；第二个阶段实现了手势滑动方向就是蛇的运动方向。通过这个项目学习了View事件机制以及处理方法。
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-29-26.png" width = "288" height = "512" alt="" />
+
+# 2048
+<img src="http://o7gy5l0ax.bkt.clouddn.com/2048.png" width = "96" height = "96" alt="2048"/>
+
+#### 应用简介:
+学习动画的时候开发的项目。通过这个项目学习了位移动画、属性动画。
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk)
+
+#### 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-26-00.png" width = "288" height = "512" alt="" />
 
 # 天气(Weather)
 <img src="http://o7gy5l0ax.bkt.clouddn.com/weather.png" width = "96" height = "96" alt="Weather"/>
 
 ## 应用简介:
 学习网络请求API和JSON解析的时候开发的项目。通过这个项目，学习了如何使用HttpClient请求API并通过Jsoup解析JSON数据。
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-06-56.png" width = "288" height = "512" alt="" />
@@ -112,7 +86,7 @@ You can through my other [article](https://github.com/1anc3r/SevenPounds) about 
 
 ## 应用简介:
 学习Android多线程的时候开发的项目，应用有时钟、闹钟、秒表和计时器四个部分。通过这个项目，学习了线程的几种使用方法、Service启动闹钟。
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-12-48.png" width = "288" height = "512" alt="" />
@@ -122,7 +96,7 @@ You can through my other [article](https://github.com/1anc3r/SevenPounds) about 
 
 ## 应用简介:
 学习ListView的时候开发的项目，实现了分组导航、挤压动画、快速滚动和缺省查找，而且可以打电话、发短信。通过这个项目，学习了ListView的高级使用、AnimateSet位移动画、通过ContentProvider获取联系人、隐式启动Activity打电话和发短信
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-12-50-48.png" width = "288" height = "512" alt="" />
@@ -132,7 +106,7 @@ You can through my other [article](https://github.com/1anc3r/SevenPounds) about 
 
 ## 应用简介:
 学习Android的时候开发的第一个项目，刚开始只有简单的Button事件监听，学习(栈实现)多项式运算后进行了改进。通过这个项目，学习了Button事件的多种监听方式、通过栈实现的多项式运算算法。
-[点击下载](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
+[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
