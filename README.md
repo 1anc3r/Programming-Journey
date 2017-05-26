@@ -1,5 +1,5 @@
 # 1anc3r-s-Programming-Journey
-那些年我写过的应用
+那些年我写过的应用(按照时间由近及远排序)
 
 ---
 # 滑稽脸漫画(ComicFace-Java)
