@@ -16,46 +16,6 @@ Some Android App Developed by 1anc3r
 
 ## Detail
 
-### Calculator
-<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_launcher.png" width = "96" height = "96" alt="Calculator"/>
-
-#### Introduction
-The first Android app I developed. I use the stack so that it can be a complex polynomial arithmetic.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
-
-### Contacts
-<img src="http://o7gy5l0ax.bkt.clouddn.com/contacts.png" width = "96" height = "96" alt="Contacts"/>
-
-#### Introduction
-I used to have a grouping navigation technology, extrusion animation, fast scrolling and selection search. the address book is not just skin deep, she could really call and send text messages.. With this Android app I learned how to get the contacts.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-12-50-48.png" width = "288" height = "512" alt="" />
-
-### Clock
-<img src="http://o7gy5l0ax.bkt.clouddn.com/clock.png" width = "96" height = "96" alt="Clock"/>
-
-#### Introduction
-After I learn Android thread, this was the first Android app I developed. the main feature is the clock, alarm clock, stopwatch and timer. With this Android app I learned four ways to open the thread, and how to get and set the alarm.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-12-48.png" width = "288" height = "512" alt="" />
-
-### Weather
-<img src="http://o7gy5l0ax.bkt.clouddn.com/weather.png" width = "96" height = "96" alt="Weather"/>
-
-#### Introduction
-After I learn Android request API and parse Json, this was the first Android app I developed. the main feature is get weather and national City. With this Android app I learned how to request API and parse Json.
-[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
-
-#### Screenshot
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-06-56.png" width = "288" height = "512" alt="" />
-
 ### 2048
 <img src="http://o7gy5l0ax.bkt.clouddn.com/2048.png" width = "96" height = "96" alt="2048"/>
 
@@ -137,8 +97,58 @@ You can through my other [article](https://github.com/1anc3r/XUPT) about this ap
 #### Introduction
 You can through my other [article](https://github.com/1anc3r/SevenPounds) about this app.
 
-## About Me
-A student of Xi'an University of Posts and Telecommunications in mainland China. Currently learning Android development.
-My blog address is [www.1anc3r.me](www.1anc3r.me). Welcome to offer me an internship. If you have any idea about this project, feel free to contact me. :smiley:
+# 天气(Weather)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/weather.png" width = "96" height = "96" alt="Weather"/>
 
-## To Be Continued...
+## 应用简介:
+学习网络请求API和JSON解析的时候开发的项目。通过这个项目，学习了如何使用HttpClient请求API并通过Jsoup解析JSON数据。
+[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-06-56.png" width = "288" height = "512" alt="" />
+
+# 时钟(Clock)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/clock.png" width = "96" height = "96" alt="Clock"/>
+
+## 应用简介:
+学习Android多线程的时候开发的项目，应用有时钟、闹钟、秒表和计时器四个部分。通过这个项目，学习了线程的几种使用方法、Service启动闹钟。
+[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-12-48.png" width = "288" height = "512" alt="" />
+
+# 通讯录(Contacts)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/contacts.png" width = "96" height = "96" alt="Contacts"/>
+
+## 应用简介:
+学习ListView的时候开发的项目，实现了分组导航、挤压动画、快速滚动和缺省查找，而且可以打电话、发短信。通过这个项目，学习了ListView的高级使用、AnimateSet位移动画、通过ContentProvider获取联系人、隐式启动Activity打电话和发短信
+[Click here to download](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-12-50-48.png" width = "288" height = "512" alt="" />
+
+# 计算器(Calculator)
+<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_launcher.png" width = "96" height = "96" alt="Calculator"/>
+
+## 应用简介:
+学习Android的时候开发的第一个项目，刚开始只有简单的Button事件监听，学习(栈实现)多项式运算后进行了改进。通过这个项目，学习了Button事件的多种监听方式、通过栈实现的多项式运算算法。
+[点击下载](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
+
+## 应用截图:
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
+
+
+
+# 关于
+### 组织
+<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_xiyoumobile.png" width = "100" height = "100" alt=""/>
+
+西安邮电大学移动应用开发实验室，亦称西安邮电大学3G手机应用开发实验室，创建于2011年，并被设为“Google 中国大学合作部--Android 人才培养示范基地”。实验室分为苹果iOS、谷歌Android、微软Windows Phone三个小组，是西安邮电大学唯一专注于移动平台应用开发的实验室。
+
+实验室位于西安邮电大学长安校区东区教学楼一层FZ155教室，设有多部移动应用开发设备，可供成员测试相关应用程序。Android开发组还配有由公司提供的Android底层开发箱，可用于开发和测试Android底层程序。
+
+### 作者
+<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_lancer.jpg" width = "100" height = "100" alt=""/>
+
+我是1anc3r, 西安邮电大学计算机学院软件工程应届生, 正在努力学习Android开发。
+
