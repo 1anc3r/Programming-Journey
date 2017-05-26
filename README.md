@@ -1,6 +1,19 @@
 # 1anc3r-s-Android-App-List
-Some Android App Developed by 1anc3r
+那些年我写过的应用
 
+---
+# 无疾(已上线)
+<img src="https://github.com/1anc3r/NoDiseases/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt="icon"/>
+
+## 应用简介:
+无疾 —— 即没有疾病。旨在提供疾病自查及医疗资讯的资讯类应用。
+
+[项目链接](https://github.com/1anc3r/NoDiseases)
+
+[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.nodiseases&apkCode=1)
+
+## 应用截图:
+<img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221636.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221642.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221646.png?raw=true" width = "288" height = "512" alt=""/>
 
 # 七磅(已上线)
 <img src="https://camo.githubusercontent.com/93b693b04282a15d3df610d6451392736260033a/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f736576656e706f756e64732e706e67" width = "96" height = "96" alt="AirFree"/>
@@ -46,6 +59,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 大二接的项目，Bmob的后台，拥有完整的业务逻辑：用户登录、注册、忘记密码、发表；管理员审核、加精；文章分类、搜索...
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
 
 ## 应用截图:
@@ -56,6 +70,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习手势的时候在Google Example的基础上开发的项目，Google Example中的贪吃蛇是Android早期版本而且不支持手势操作(大概是那时候的Android手机大多是实体键)。开发的过程中分为两个阶段：第一个阶段实现了触摸点与屏幕中心的相对方向就是蛇的运动方向；第二个阶段实现了手势滑动方向就是蛇的运动方向。通过这个项目学习了View事件机制以及处理方法。
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)
 
 ## 应用截图:
@@ -66,6 +81,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 #### 应用简介:
 学习动画的时候开发的项目。通过这个项目学习了位移动画、属性动画。
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk)
 
 #### 应用截图:
@@ -76,6 +92,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习网络请求API和JSON解析的时候开发的项目。通过这个项目，学习了如何使用HttpClient请求API并通过Jsoup解析JSON数据。
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
 
 ## 应用截图:
@@ -86,6 +103,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习Android多线程的时候开发的项目，应用有时钟、闹钟、秒表和计时器四个部分。通过这个项目，学习了线程的几种使用方法、Service启动闹钟。
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
 
 ## 应用截图:
@@ -96,6 +114,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习ListView的时候开发的项目，实现了分组导航、挤压动画、快速滚动和缺省查找，而且可以打电话、发短信。通过这个项目，学习了ListView的高级使用、AnimateSet位移动画、通过ContentProvider获取联系人、隐式启动Activity打电话和发短信
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
 
 ## 应用截图:
@@ -106,12 +125,11 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 ## 应用简介:
 学习Android的时候开发的第一个项目，刚开始只有简单的Button事件监听，学习(栈实现)多项式运算后进行了改进。通过这个项目，学习了Button事件的多种监听方式、通过栈实现的多项式运算算法。
+
 [下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
-
-
 
 # 关于
 ### 组织
