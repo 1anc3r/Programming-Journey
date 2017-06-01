@@ -175,7 +175,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 [项目链接](https://github.com/1anc3r/Cinema-Management-System-Android)
 
 ## 应用截图:
-暂无截图
+<img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/screenshot/Screenshot_20170527-174316.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/screenshot/Screenshot_20170527-174321.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/screenshot/Screenshot_20170527-174329.png" width = "288" height = "512" alt=""/>
 
 # Java Web版(Cinema-Management-System-Web)
 
