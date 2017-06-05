@@ -12,7 +12,9 @@
 
 [Java版](https://github.com/1anc3r/ComicFace-Java)
 
-[下载链接](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
+[Kotlin版下载链接](http://fir.im/comicfacekotli)
+
+[Java版下载链接](http://fir.im/comicfacejav)
 
 ## 应用截图:
 <img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
@@ -25,7 +27,7 @@
 
 [项目链接](https://github.com/1anc3r/CMC)
 
-[下载链接](https://github.com/1anc3r/CMC/blob/master/screenshot/cmc_alpha_0.0.1.apk)
+[下载链接](http://fir.im/0cmc0)
 
 ## 应用截图:
 <img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-06.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-02.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_17-01-34.png" width = "288" height = "512" alt=""/>
@@ -38,7 +40,7 @@
 
 [项目链接](https://github.com/1anc3r/NoDiseases)
 
-[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.nodiseases&apkCode=1)
+[下载链接](http://fir.im/nodiseases)
 
 ## 应用截图:
 <img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221636.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221642.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221646.png?raw=true" width = "288" height = "512" alt=""/>
@@ -51,7 +53,7 @@
 
 [项目链接](https://github.com/1anc3r/SevenPounds)
 
-[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.sevenpounds)
+[下载链接](http://fir.im/sevenpounds)
 
 ## 应用截图:
 <img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085145.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085146.gif?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085149.png?raw=true" width = "288" height = "512" alt=""/>
@@ -64,7 +66,7 @@
 
 [项目链接](https://github.com/1anc3r/XUPT)
 
-[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.xupt&apkCode=5)
+[下载链接](http://fir.im/xupt)
 
 ## 应用截图:
 <img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412931.gif" width = "288" height = "512" alt="" /><img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412932.gif" width = "288" height = "512" alt=""/><img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412933.gif" width = "288" height = "512" alt=""/>
@@ -77,7 +79,7 @@ AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应
 
 [项目链接](https://github.com/1anc3r/AirFree-Client)
 
-[下载链接](http://sj.qq.com/myapp/detail.htm?apkName=me.lancer.airfree&apkCode=8)
+[下载链接](http://fir.im/airfree)
 
 ## 应用截图:
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-32.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-43-27.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-51.png" width = "288" height = "512" alt=""/>
