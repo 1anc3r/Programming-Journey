@@ -2,11 +2,12 @@
 那些年我写过的应用(按照时间由近及远排序)
 
 ---
-# 口袋
+# 口袋(Pocket)
 <img src="https://github.com/1anc3r/Pocket/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
 [<img src="https://camo.githubusercontent.com/b908ff6651d5ec11d504a37d2f441de9bc1362bc/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" width = "245.1" height = "72.6" alt="icon"/>](https://play.google.com/store/apps/details?id=me.lancer.pocket)
+
 口袋是一个工具与资讯聚合类应用，一方面可以作为工具发短信打电话、管理各类型文件、查询天气、简单计算、翻译单词、摩斯电码、二维码扫描与生成，另一方面可以作为获取资讯的方式，提供了文章、趣闻、段子、图书、音乐、电影、妹子图、漫画、视频、游戏、编程方面的资讯，提供夜间模式和主题换色。
 
 [项目链接](https://github.com/1anc3r/Pocket)
@@ -90,6 +91,7 @@
 
 ## 应用简介:
 [<img src="https://camo.githubusercontent.com/b908ff6651d5ec11d504a37d2f441de9bc1362bc/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" width = "245.1" height = "72.6" alt="icon"/>](https://play.google.com/store/apps/details?id=me.lancer.airfree)
+
 AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应用，能够为用户提供 Android 和 Windows 之间远程资源共享和设备控制功能，你不仅可以远程管理电脑中的资源，实现无线双向传输，还可以让 Android 手机摇身一变成为无线遥控器远程控制电脑。项目中文件管理功能通过 Environment 获取内外部存储，通过 ContentProvider 获取图片音乐视频。远程控制功能以 Socket 作为传输手段，以 Json 作为传输格式，以 AsyncTask、IntentService 完成远程控制传输操作，使用 Touch 和 Gesture 完成鼠标手势， 使用BitmapFactory处理图片实现远程桌面，使用ZXing实现二维码扫描，使用科大讯飞实现语音控制。通过此项目熟悉了 Android 四大组件的工作过程，掌握了基于 Socket 的网络编程， 掌握了Android的多线程编程，培养了使用第三方SDK的能力。 
 
 [项目链接](https://github.com/1anc3r/AirFree-Client)
