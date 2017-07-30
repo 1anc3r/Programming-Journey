@@ -1,4 +1,4 @@
-# 1anc3r-s-Programming-Journey
+# Programming-Journey
 那些年我写过的应用(按照时间由近及远排序)
 
 ---
