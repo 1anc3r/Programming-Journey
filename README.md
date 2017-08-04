@@ -1,5 +1,5 @@
 # Programming-Journey
-那些年我写过的应用(按照时间由近及远排序)
+那些年我写过的应用(大致按照时间由近及远排序)
 
 ---
 # 口袋(Pocket)
@@ -8,7 +8,7 @@
 ## 应用简介:
 [<img src="https://camo.githubusercontent.com/b908ff6651d5ec11d504a37d2f441de9bc1362bc/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" width = "245.1" height = "72.6" alt="icon"/>](https://play.google.com/store/apps/details?id=me.lancer.pocket)
 
-口袋是一个工具与资讯聚合类应用，一方面可以作为工具发短信打电话、管理各类型文件、查询天气、简单计算、翻译单词、摩斯电码、二维码扫描与生成，另一方面可以作为获取资讯的方式，提供了文章、趣闻、段子、图书、音乐、电影、妹子图、漫画、视频、游戏、编程方面的资讯，提供夜间模式和主题换色。
+口袋是一个工具与资讯聚合类应用，一方面可以作为工具发短信打电话、管理各类型文件、查询天气、简单计算、翻译单词、摩斯电码、二维码扫描与生成，另一方面可以作为获取资讯的方式，提供了文章、趣闻、段子、图书、音乐、电影、妹子图、漫画、视频、游戏、编程方面的资讯，提供夜间模式和主题换色。项目采用 MVP 架构，Okhttp 和 Volley 加载网络数据，JSoup 解析 Json 数据， Glide 加载图片资源，SQLite 读写本机数据；使用 RecyclerView 加载多种布局，支持下拉刷 新上拉加载；应用支持主题换色、夜间模式、亮度调节。通过此项目掌握了 MVP 设计思想， 掌握了多种数据处理方式，学习了各种Android的性能优化技巧。
 
 [项目链接](https://github.com/1anc3r/Pocket)
 
@@ -30,7 +30,7 @@
 <img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/><img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
-滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。分别使用Kotlin和Java开发，数据来自有妖气漫画。
+滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。分别使用Kotlin和Java开发，数据来自有妖气漫画。三天学习Kotlin。
 
 [Kotlin版](https://github.com/1anc3r/ComicFace-Kotlin)
 
@@ -86,7 +86,7 @@
 <img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt=""/>
 
 ## 应用简介:
-西邮记是一款教务信息查询应用（已上线），应用实现了课表、成绩查询，考勤记 录查询、统计及申诉，图书借阅查询、续借及收藏，英语四六级查询。 项目采用 MVP 架构，使用自定义 View 实现课表布局，使用 RemoteView 实现桌面小组件，通过OkHttp获取Json数据，使用Jsoup解析处理。通过此项目掌握了MVP设计思想，掌握了基于HTTP的网络编程，掌握了自定义View。 
+西邮记是一款教务信息查询应用（已上线），应用实现了课表、成绩查询，考勤记 录查询、统计及申诉，图书借阅查询、续借及收藏，英语四六级查询。 项目采用 MVP 架构，通过 Fiddler 抓包并分析，模拟网络数据请求；使用自定义 View 实现课表布局；使用 RemoteView 实现课表桌面小组件。通过此项目熟悉了 MVP 设计 思想，学习了如何抓包，掌握了基于HTTP的网络编程，掌握了自定义View。 
 
 [项目链接](https://github.com/1anc3r/XUPT)
 
@@ -101,7 +101,7 @@
 ## 应用简介:
 [<img src="https://camo.githubusercontent.com/b908ff6651d5ec11d504a37d2f441de9bc1362bc/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" width = "245.1" height = "72.6" alt="icon"/>](https://play.google.com/store/apps/details?id=me.lancer.airfree)
 
-AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应用，能够为用户提供 Android 和 Windows 之间远程资源共享和设备控制功能，你不仅可以远程管理电脑中的资源，实现无线双向传输，还可以让 Android 手机摇身一变成为无线遥控器远程控制电脑。项目中文件管理功能通过 Environment 获取内外部存储，通过 ContentProvider 获取图片音乐视频。远程控制功能以 Socket 作为传输手段，以 Json 作为传输格式，以 AsyncTask、IntentService 完成远程控制传输操作，使用 Touch 和 Gesture 完成鼠标手势， 使用BitmapFactory处理图片实现远程桌面，使用ZXing实现二维码扫描，使用科大讯飞实现语音控制。通过此项目熟悉了 Android 四大组件的工作过程，掌握了基于 Socket 的网络编程， 掌握了Android的多线程编程，培养了使用第三方SDK的能力。 
+AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应用，能够为用户提供 Android 和 Windows 之间远程资源共享和设备控制功能，你不仅可以远程管理电脑中的资源，实现无线双向传输，还可以让 Android 手机摇身一变成为无线遥控器远程控制电脑。项目中文件管理功能通过 ContentProvider 获取/处理本机资源。远程控制功能以 Socket 作为传输手段，以 Json 作为传输格式，以 AsyncTask、IntentService 完成远程控制/ 传输操作。通过此项目熟悉了 Android 四大组件的工作过程，掌握了基于 Socket 的网络编程， 掌握了Android的多线程编程，培养了使用第三方SDK的能力。 
 
 [项目链接](https://github.com/1anc3r/AirFree-Client)
 
