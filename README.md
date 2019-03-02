@@ -2,305 +2,339 @@
 那些年我写过的应用(大致按照时间由近及远排序)
 
 ---
-# 口袋(Pocket)
-<img src="https://github.com/1anc3r/Pocket/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
+# 口袋
+<img src="https://github.com/1anc3r/Pocket/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
 
 ## 应用简介:
+口袋是一个工具与资讯聚合类应用，在[七磅](https://github.com/1anc3r/SevenPounds)的基础上加入很多以往项目中的代码，算是对我的Android学习之旅的阶段性总结。口袋一方面可以作为工具发短信打电话、管理各类型文件、查询天气、简单计算、翻译单词、摩斯电码、二维码扫描与生成，另一方面可以作为获取资讯的方式，提供了文章、趣闻、段子、图书、音乐、电影、妹子图、漫画、视频、游戏、编程方面的资讯，提供夜间模式和主题换色。
+
+## 相关链接:
 [<img src="https://camo.githubusercontent.com/b908ff6651d5ec11d504a37d2f441de9bc1362bc/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" width = "245.1" height = "72.6" alt="icon"/>](https://play.google.com/store/apps/details?id=me.lancer.pocket)
 
-口袋是一个工具与资讯聚合类应用，一方面可以作为工具发短信打电话、管理各类型文件、查询天气、简单计算、翻译单词、摩斯电码、二维码扫描与生成，另一方面可以作为获取资讯的方式，提供了文章、趣闻、段子、图书、音乐、电影、妹子图、漫画、视频、游戏、编程方面的资讯，提供夜间模式和主题换色。项目采用 MVP 架构，Okhttp 和 Volley 加载网络数据，JSoup 解析 Json 数据， Glide 加载图片资源，SQLite 读写本机数据；使用 RecyclerView 加载多种布局，支持下拉刷 新上拉加载；应用支持主题换色、夜间模式、亮度调节。通过此项目掌握了 MVP 设计思想， 掌握了多种数据处理方式，学习了各种Android的性能优化技巧。
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/Pocket)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.1-blue.svg)](http://www.coolapk.com/apk/me.lancer.pocket)
 
-[项目链接](https://github.com/1anc3r/Pocket)
+## 应用界面:
 
-[下载链接](http://www.coolapk.com/apk/me.lancer.pocket)
+<img src="https://github.com/1anc3r/Pocket/blob/master/Screenshots/1.png?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/Pocket/blob/master/Screenshots/2.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Pocket/blob/master/Screenshots/3.png?raw=true" width = "288" height = "512" alt=""/>
+<img src="https://github.com/1anc3r/Pocket/blob/master/Screenshots/4.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Pocket/blob/master/Screenshots/5.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Pocket/blob/master/Screenshots/6.png?raw=true" width = "288" height = "512" alt=""/>
 
-## 应用截图:
-<img src="https://github.com/1anc3r/Pocket/blob/master/screenshot/1.png?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/Pocket/blob/master/screenshot/2.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Pocket/blob/master/screenshot/3.png?raw=true" width = "288" height = "512" alt=""/>
-<img src="https://github.com/1anc3r/Pocket/blob/master/screenshot/4.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Pocket/blob/master/screenshot/5.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Pocket/blob/master/screenshot/6.png?raw=true" width = "288" height = "512" alt=""/>
+## 技术要点
+
+项目采用 MVP 架构，Okhttp 和 Volley 加载网络数据，JSoup 解析 Json 数据， Glide 加载图片资源，SQLite 读写本机数据；使用 RecyclerView 加载多种布局，支持下拉刷 新上拉加载；应用支持主题换色、夜间模式、亮度调节。通过此项目掌握了 MVP 设计思想， 掌握了多种数据处理方式，学习了各种Android的性能优化技巧。
+
+---
+
+# 天气(RxWeather)
+<img src="https://github.com/1anc3r/RxWeather/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
+
+## 应用简介:
+天气应用。 
+
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/RxWeather)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.1-blue.svg)](https://github.com/1anc3r/RxWeather/blob/master/app/app-release.apk?raw=true)
+
+## 应用界面
+<img src="https://github.com/1anc3r/RxWeather/blob/master/Screenshots/1.png?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/RxWeather/blob/master/Screenshots/2.png?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/RxWeather/blob/master/Screenshots/3.png?raw=true" width = "288" height = "512" alt="" />
+
+---
+
+# SpineRuntimesDemo
+<img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
+
+## 应用简介
+
+使用[Spine Runtimes](https://github.com/EsotericSoftware/spine-runtimes)中的spine-libgdx作为lib编写的几个小Demo。
+
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/SpineRuntimesDemo)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.1-blue.svg)](http://fir.im/spineruntimes)
+
+## 运行效果:
+
+<img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/Screenshots/20170803_144535.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/Screenshots/20170803_144258.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/Screenshots/20170803_144358.gif?raw=true" width = "288" height = "512" alt="" />
+<img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/Screenshots/20170804_091039.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/Screenshots/20170803_144435.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SpineRuntimesDemo/blob/master/Screenshots/20170804_091109.gif?raw=true" width = "288" height = "512" alt="" />
+
+---
+
+# 蓝牙聊天室(BluetoothChatroomDemo)
+<img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
+
+## 应用简介:
+蓝牙聊天室，课堂作业。
+
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/BluetoothChatroom)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.1-blue.svg)](http://fir.im/bluetoothchatroom)
+
+## 应用界面
+<img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/Screenshots/大厅.png" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/Screenshots/连接.png" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/BluetoothChatroom/blob/master/Screenshots/聊天室.png" width = "288" height = "369" alt="" />
+
+---
 
 # 滑稽脸漫画(ComicFace)
-<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/><img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/><img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
 
 ## 应用简介:
-滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。分别使用Kotlin和Java开发，数据来自有妖气漫画。三天学习Kotlin。
+滑稽脸漫画是一个看漫画应用，漫画和滑稽的英文单词都是Comic。使用Kotlin开发，数据来自有妖气漫画。
 
-[Kotlin版](https://github.com/1anc3r/ComicFace-Kotlin)
+## 相关链接:
+* Kotlin项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/ComicFace-Kotlin)
+* Kotlin项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/ComicFace-Java)
+* 应用下载链接: [点我下载](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/blob/master/app/app-release.apk?raw=true)
 
-[Java版](https://github.com/1anc3r/ComicFace-Java)
+## 功能介绍:
+1. 推荐: 推荐好看的漫画
+2. 排行: 漫画排行榜
+3. 分类: 以漫画类型分类
 
-[Kotlin版下载链接](http://fir.im/comicfacekotli)
+## 应用界面:
 
-[Java版下载链接](http://fir.im/comicfacejav)
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/Screenshots/推荐.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/Screenshots/排行.png?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/Screenshots/分类.png?raw=true" width = "288" height = "369" alt=""/>
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/Screenshots/分类详情.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/Screenshots/漫画章节.png?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/Screenshots/动图1.gif?raw=true" width = "288" height = "369" alt=""/>
 
-## 应用截图:
-<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
+---
 
-# 成都医学院教务
-<img src="https://github.com/1anc3r/CMC/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
+# 七磅(SevenPounds)
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
 
 ## 应用简介:
-成都医学院教务是一款教务信息查询应用。 
+七磅（榜）—— 灵魂的重量。 汇（pa）聚（qu）网络优质信息于七张榜单，为灵魂增重。 
 
-[项目链接](https://github.com/1anc3r/CMC)
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/SevenPounds)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.1-blue.svg)](https://github.com/1anc3r/SevenPounds/blob/master/app/app-release.apk?raw=true)
 
-[下载链接](http://fir.im/0cmc0)
+## 应用界面:
 
-## 应用截图:
-<img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-06.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_16-57-02.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/CMC/blob/master/screenshot/qemu-system-i386_2017-04-24_17-01-34.png" width = "288" height = "512" alt=""/>
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/动图1.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/动图2.gif?raw=true" width = "288" height = "512" alt=""/>
 
-# 无疾(已上线)
-<img src="https://github.com/1anc3r/NoDiseases/blob/master/app/src/main/ic_launcher-web.png" width = "96" height = "96" alt=""/>
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/侧边栏.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/见闻如是说.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/见闻如是说_详情.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/读书如抽丝_书评.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/读书如抽丝_书榜.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/读书如抽丝_详情.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/听音如沐风_乐评.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/听音如沐风_乐榜.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/览图如流水.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/观音如造梦_影评.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/观影如造梦_影榜.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/吐槽如瀑布.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/游戏如人生_分类.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/游戏如人生_周榜.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/编程如逆旅_详情.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/编程如逆旅_个人.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/编程如逆旅_项目.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/Screenshots/编程如逆旅_组织.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+## 技术要点
+
+项目采用 MVP 架构，Okhttp 和 Volley 加载网络数据，JSoup 解析 Json 数据；使用 RecyclerView 加载多种布局，支持下拉刷 新上拉加载；应用支持主题换色、夜间模式、亮度调节。通过此项目掌握了 MVP 设计思想， 掌握了多种数据处理方式，学习了各种Android的性能优化技巧。 
+
+---
+
+# 无疾
+<img src="https://github.com/1anc3r/NoDiseases/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
 
 ## 应用简介:
 无疾 —— 即没有疾病。旨在提供疾病自查及医疗资讯的资讯类应用。
 
-[项目链接](https://github.com/1anc3r/NoDiseases)
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/NoDiseases)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.1-blue.svg)](https://github.com/1anc3r/NoDiseases/blob/master/app/app-release.apk?raw=true)
 
-[下载链接](http://fir.im/nodiseases)
+## 功能介绍:
+1. 疾病自查: 
+    可以按照身体部位和科室分类来查询疾病，也可以点击右上角搜索按钮按照疾病名称和症状查询疾病，点击结果可以浏览疾病简介、病因、预防、病状、药品、食品、检查等
+2. 医学百科: 
+    了解医学相关的资讯和知识，按照诸多标签进行分类，以新闻的形式呈现
+3. 附近医院 : 
+    以我的位置为中心，搜索方圆5公里内的医院，地图和定位由高德地图提供
 
-## 应用截图:
-<img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221636.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221642.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/screenshot/Screenshot_20170510-221646.png?raw=true" width = "288" height = "512" alt=""/>
+## 应用界面:
+<img src="https://github.com/1anc3r/NoDiseases/blob/master/Screenshots/医学百科.png?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/Screenshots/疾病自查.png?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/NoDiseases/blob/master/Screenshots/附近医院.png?raw=true" width = "288" height = "369" alt=""/>
 
-# 七磅(已上线)
-<img src="https://camo.githubusercontent.com/93b693b04282a15d3df610d6451392736260033a/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f736576656e706f756e64732e706e67" width = "96" height = "96" alt=""/>
+---
 
-## 应用简介:
-七磅（榜）—— 灵魂的重量。 汇（pa）聚（qu）网络优质信息于七张榜单，为灵魂增重。项目采用 MVP 架构，使用 Okhttp 和 Volley 加载数据与图片，并使用 ImageLoader 对图片进行缓存，使用 RecyclerView 加载多种布局，结合下拉刷新上拉加载实现瀑布流，使用外部拦截法解决 NestedScrollView 嵌套 RecyclerView 滑动冲突，解决 WebView 内存泄漏。通过此项目熟悉了 MVP 设计思想，掌握了图片缓存实现原理，学习了 Volley源码设计，学习了Android的性能优化技巧。 
-
-[项目链接](https://github.com/1anc3r/SevenPounds)
-
-[下载链接](http://fir.im/sevenpounds)
-
-## 应用截图:
-<img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085145.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085146.gif?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/SevenPounds/blob/master/screenshot/Screenshot_1490085149.png?raw=true" width = "288" height = "512" alt=""/>
-
-# 西邮记(已上线)
-<img src="https://camo.githubusercontent.com/76c73590c3ac5db1cdce434f634cd5e550203d7b/687474703a2f2f6f376779356c3061782e626b742e636c6f7564646e2e636f6d2f69635f6c61756e636865722d7765622e706e67" width = "96" height = "96" alt=""/>
+# 成都医学院教务
+<img src="https://github.com/1anc3r/CMC/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="AirFree"/>
 
 ## 应用简介:
-西邮记是一款教务信息查询应用（已上线），应用实现了课表、成绩查询，考勤记 录查询、统计及申诉，图书借阅查询、续借及收藏，英语四六级查询。 项目采用 MVP 架构，通过 Fiddler 抓包并分析，模拟网络数据请求；使用自定义 View 实现课表布局；使用 RemoteView 实现课表桌面小组件。通过此项目熟悉了 MVP 设计 思想，学习了如何抓包，掌握了基于HTTP的网络编程，掌握了自定义View。 
+成都医学院教务是一款教务信息查询应用。功能基本同[XUPT](https://github.com/1anc3r/XUPT)。
 
-[项目链接](https://github.com/1anc3r/XUPT)
-
-[下载链接](http://fir.im/xupt)
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/CMC)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.2-blue.svg)](https://github.com/1anc3r/CMC/blob/master/app/app-release.apk?raw=true)
 
 ## 应用截图:
-<img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412931.gif" width = "288" height = "512" alt="" /><img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412932.gif" width = "288" height = "512" alt=""/><img src="https://raw.githubusercontent.com/1anc3r/XUPT/master/screenshot/Screenshot_1482412933.gif" width = "288" height = "512" alt=""/>
+<img src="https://github.com/1anc3r/CMC/blob/master/Screenshots/课表.png?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/CMC/blob/master/Screenshots/成绩单.png?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/CMC/blob/master/Screenshots/桌面课表.png?raw=true" width = "288" height = "512" alt=""/>
 
-# AirFree(已上线)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/telegram_144px_1145402_easyicon.net.png" width = "96" height = "96" alt="AirFree"/>
+---
+
+# 西邮记(XUPT)
+<img src="https://github.com/1anc3r/XUPT/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
 
 ## 应用简介:
+西邮记是一款教务信息查询应用（已上线），应用实现了课表、成绩查询，考勤记 录查询、统计及申诉，图书借阅查询、续借及收藏，英语四六级查询。 
+
+## 相关链接:
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/XUPT)
+* 应用下载链接: [![](https://img.shields.io/badge/download-v1.2-blue.svg)](http://fir.im/xupt)
+
+## 应用界面:
+
+<img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/动图1.gif?raw=true" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/动图2.gif?raw=true" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/动图3.gif?raw=true" width = "288" height = "512" alt=""/>
+
+<img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/课表.jpeg?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/成绩单.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/个人信息.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/成绩单_夜间.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/课表_夜间.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/课表_桌面.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/图书馆_检索.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/图书馆_详情.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/图书馆_我的.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/考勤表_明细.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/考勤表_申诉.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/考勤表_统计.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+<img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/侧边栏.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/设置.jpeg?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/XUPT/blob/master/Screenshots/应用信息.jpeg?raw=true" width = "288" height = "369" alt=""/>
+
+## 技术要点
+项目采用 MVP 架构，通过 Fiddler 抓包并分析，模拟网络数据请求；使用自定义 View 实现课表布局；使用 RemoteView 实现课表桌面小组件。通过此项目熟悉了 MVP 设计 思想，学习了如何抓包，掌握了基于HTTP的网络编程，掌握了自定义View。 
+
+---
+
+# AirFree远程协助(Android)
+<img src="https://github.com/1anc3r/AirFree-Client/blob/master/app/src/main/ic_launcher-web.png?raw=true" width = "96" height = "96" alt="icon"/>
+
+## 应用简介:
+AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应用，能够为用户提供 Android 和 Windows 之间远程资源共享和设备控制功能，你不仅可以远程管理电脑中的资源，实现无线双向传输，还可以让 Android 手机摇身一变成为无线遥控器远程控制电脑。 
+
+## 相关链接:
 [<img src="https://camo.githubusercontent.com/b908ff6651d5ec11d504a37d2f441de9bc1362bc/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" width = "245.1" height = "72.6" alt="icon"/>](https://play.google.com/store/apps/details?id=me.lancer.airfree)
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/AirFree-Client)
+* AirFree远程协助(Android)下载链接:: [AirFree-Client.apk](http://fir.im/airfree)
+* AirFree远程协助(Desktop)下载链接: [AirFree-Server.exe](http://pan.baidu.com/s/1skI7QFF)
 
-AirFree是一款通过Android手机轻松访问、控制电脑的远程协助应用，能够为用户提供 Android 和 Windows 之间远程资源共享和设备控制功能，你不仅可以远程管理电脑中的资源，实现无线双向传输，还可以让 Android 手机摇身一变成为无线遥控器远程控制电脑。项目中文件管理功能通过 ContentProvider 获取/处理本机资源。远程控制功能以 Socket 作为传输手段，以 Json 作为传输格式，以 AsyncTask、IntentService 完成远程控制/ 传输操作。通过此项目熟悉了 Android 四大组件的工作过程，掌握了基于 Socket 的网络编程， 掌握了Android的多线程编程，培养了使用第三方SDK的能力。 
+## 使用方法:
+1. 手机和电脑连接相同的Wi-Fi，或者手机/电脑开放热点给电脑/手机连接，然后打开Windows Server（WS）端程序和Android Client（AC）端
+2. 点击AC端主界面左上角的连接按钮，WS端会将IP地址以文字和二维码的形式呈现，可以输入或者扫码连接
+3. 然后就可以放心食用了。如果不连接的话，还是可以使用文件管理功能，浏览本机的图片、音乐、视频、文档、应用。对了，Download是放置WS端给AC端传输文件的目录，DCIM是放置截图的目录
 
-[项目链接](https://github.com/1anc3r/AirFree-Client)
+## 应用界面:
 
-[下载链接](http://fir.im/airfree)
+<img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/主页_文件.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/主页_遥控.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/主页_设置.png?raw=true" width = "288" height = "369" alt="" />
 
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-32.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-24-19-43-27.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-07-21-16-26-51.png" width = "288" height = "512" alt=""/>
+<img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/文件_远程设备.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/文件_内部存储.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/文件_搜索.png?raw=true" width = "288" height = "369" alt="" />
 
-# 西邮告示牌
-<img src="http://o7gy5l0ax.bkt.clouddn.com/xiyousign.png" width = "96" height = "96" alt=""/>
+<img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/文件_图片.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/文件_视频.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/文件_音乐.png?raw=true" width = "288" height = "369" alt="" />
 
-## 应用简介:
-大二接的项目，Bmob的后台，拥有完整的业务逻辑：用户登录、注册、忘记密码、发表；管理员审核、加精；文章分类、搜索...
+<img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/遥控_键鼠.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/遥控_手势.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/遥控_远程桌面.png?raw=true" width = "288" height = "369" alt="" />
 
-[项目链接](https://github.com/1anc3r/IBillboard)
+<img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/遥控_语音.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/遥控_聊天.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/AirFree-Client/blob/master/Screenshots/设置_语言.png?raw=true" width = "288" height = "369" alt="" />
 
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.xiyoubillboard.apk)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-48.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-01-55.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-14-02-01.png" width = "288" height = "512" alt="" />
-
-# 贪吃蛇(Snake)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/snake.png" width = "96" height = "96" alt="Snake"/>
-
-## 应用简介:
-学习手势的时候在Google Example的基础上开发的项目，Google Example中的贪吃蛇是Android早期版本而且不支持手势操作(大概是那时候的Android手机大多是实体键)。开发的过程中分为两个阶段：第一个阶段实现了触摸点与屏幕中心的相对方向就是蛇的运动方向；第二个阶段实现了手势滑动方向就是蛇的运动方向。通过这个项目学习了View事件机制以及处理方法。
-
-[项目链接](https://github.com/1anc3r/Snake)
-
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/com.example.android.snake.apk)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-29-26.png" width = "288" height = "512" alt="" />
-
-# 2048
-<img src="http://o7gy5l0ax.bkt.clouddn.com/2048.png" width = "96" height = "96" alt="2048"/>
-
-#### 应用简介:
-学习动画的时候开发的项目。通过这个项目学习了位移动画、属性动画。
-
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.game2048.apk)
-
-#### 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-26-00.png" width = "288" height = "512" alt="" />
-
-# 天气(Weather)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/weather.png" width = "96" height = "96" alt="Weather"/>
-
-## 应用简介:
-学习网络请求API和JSON解析的时候开发的项目。通过这个项目，学习了如何使用HttpClient请求API并通过Jsoup解析JSON数据。
-
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.weather.apk)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-06-56.png" width = "288" height = "512" alt="" />
-
-# 时钟(Clock)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/clock.png" width = "96" height = "96" alt="Clock"/>
-
-## 应用简介:
-学习Android多线程的时候开发的项目，应用有时钟、闹钟、秒表和计时器四个部分。通过这个项目，学习了线程的几种使用方法、Service启动闹钟。
-
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.clock.apk)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-13-12-48.png" width = "288" height = "512" alt="" />
-
-# 通讯录(Contacts)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/contacts.png" width = "96" height = "96" alt="Contacts"/>
-
-## 应用简介:
-学习ListView的时候开发的项目，实现了分组导航、挤压动画、快速滚动和缺省查找，而且可以打电话、发短信。通过这个项目，学习了ListView的高级使用、AnimateSet位移动画、通过ContentProvider获取联系人、隐式启动Activity打电话和发短信
-
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.contacts.apk)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-21-12-50-48.png" width = "288" height = "512" alt="" />
-
-# 计算器(Calculator)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_launcher.png" width = "96" height = "96" alt="Calculator"/>
-
-## 应用简介:
-学习Android的时候开发的第一个项目，刚开始只有简单的Button事件监听，学习(栈实现)多项式运算后进行了改进。通过这个项目，学习了Button事件的多种监听方式、通过栈实现的多项式运算算法。
-
-[项目链接](https://github.com/1anc3r/Calcultor)
-
-[下载链接](http://o7gy5l0ax.bkt.clouddn.com/me.lancer.calculator.apk)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_2016-05-20-18-47-42.png" width = "288" height = "512" alt="" />
+## 技术要点
+项目中文件管理功能通过 ContentProvider 获取/处理本机资源。远程控制功能以 Socket 作为传输手段，以 Json 作为传输格式，以 AsyncTask、IntentService 完成远程控制/ 传输操作。通过此项目熟悉了 Android 四大组件的工作过程，掌握了基于 Socket 的网络编程， 掌握了Android的多线程编程，培养了使用第三方SDK的能力。 
 
 ---
 
-# Android版(Cinema-Management-System-Android)
+# Cinema-Management-System-Android(影院管理系统Android版)
+## 简介
+大三下期 Java Android 课程设计——影院管理系统 Java Android 版.
 
-## 应用简介:
-大三下期 Android 软件工程课程设计。
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/Cinema-Management-System-Android)
 
-[项目链接](https://github.com/1anc3r/Cinema-Management-System-Android)
+## 技术
+1. Java Web.
+2. MySQL.
+3. MVC.
+4. MVP.
 
-## 应用截图:
-<img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/screenshot/Screenshot_20170527-174316.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/screenshot/Screenshot_20170527-174321.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/screenshot/Screenshot_20170527-174329.png" width = "288" height = "512" alt=""/>
+## 截图
 
-# Java Web版(Cinema-Management-System-Web)
+<img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/Screenshots/影厅.png?raw=true" width = "288" height = "369" alt="" /><img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/Screenshots/影片.png?raw=true" width = "288" height = "369" alt=""/><img src="https://github.com/1anc3r/Cinema-Management-System-Android/blob/master/Screenshots/影片详情.png?raw=true" width = "288" height = "369" alt=""/>
 
-## 应用简介:
-大三上期 Java Web 软件工程课程设计，Servlet、JDBC、MVC。
-
-[网页地址](http://111.231.1.112/CinemaManagementSystem)
-[项目链接](https://github.com/1anc3r/Cinema-Management-System-Web)
-
-## 应用截图:
-<img src="https://github.com/1anc3r/Cinema-Management-System-Web/blob/master/screenshot/chrome_2017-05-14_17-29-14.png" width = "959" height = "465" alt="2" />
-
-# Java GUI版(Cinema-Management-System-Java)
-
-## 应用简介:
-大二下期 Java GUI 软件工程课程设计，Java Swing、JDBC、MVC。
-
-[项目链接](https://github.com/1anc3r/Cinema-Management-System-Java)
-
-## 应用截图:
-<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/screenshot/20160623104728.png" width = "1092" height = "500" alt="6" />
-
-# C语言命令行版(Cinema-Management-System-C)
-
-## 应用简介:
-大一下期C语言软件工程课程设计，链表、文件读写、光标控制。
-
-[项目链接](https://github.com/1anc3r/Cinema-Management-System-C)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/cinema1.jpeg" width = "320" height = "1883" alt="1" /><img src="http://o7gy5l0ax.bkt.clouddn.com/cinema2.jpeg" width = "320" height = "1883" alt="2" />
 ---
-# 八皇后(8-Queen)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/queen.png" width = "96" height = "96" alt="FileView"/>
 
-## 应用简介:
-大二学习算法和Java GUI的时候开发的项目。
+# Cinema-Management-System-Web(影院管理系统Java Web版)
 
-[项目链接](https://github.com/1anc3r/8-Queen)
+## 简介:
+大三上期 JavaWeb 课程设计——影院管理系统 Java Web 版.
 
-## 应用截图:
+项目链接:http://www.1anc3r.cn/CinemaManagementSystem（已停止维护）
+
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/Cinema-Management-System-Web)
+
+## 技术
+1. JavaWeb.
+2. MySQL.
+3. MVC.
+
+## 截图
+
+<img src="https://github.com/1anc3r/Cinema-Management-System-Web/blob/master/Screenshots/影厅.png?raw=true" width = "959" height = "465" alt="1" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Web/blob/master/Screenshots/座位.png?raw=true" width = "959" height = "465" alt="2" />
+
+---
+
+# Cinema-Management-System-Java(影院管理系统Java GUI版)
+## 简介
+大二下期 Java GUI 课程设计——影院管理系统 Java GUI 版.
+
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/Cinema-Management-System-Java)
+
+## 技术
+1. Java Swing.
+2. MySQL.
+3. MVC.
+
+## 截图
+
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/1.png?raw=true" width = "1092" height = "500" alt="1" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/2.png?raw=true" width = "1092" height = "500" alt="2" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/3.png?raw=true" width = "1092" height = "500" alt="3" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/4.png?raw=true" width = "1092" height = "500" alt="4" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/5.png?raw=true" width = "1092" height = "500" alt="5" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/6.png?raw=true" width = "1092" height = "500" alt="6" />
+<img src="https://github.com/1anc3r/Cinema-Management-System-Java/blob/master/Screenshots/7.png?raw=true" width = "1092" height = "500" alt="7" />
+
+---
+
+# Cinema-Management-System-C(影院管理系统C语言命令行版)
+## 简介
+大一下期C语言课程设计——影院管理系统 C 版.
+
+* 项目代码链接: [![](https://img.shields.io/badge/github-1anc3r-yellowgreen.svg)](https://github.com/1anc3r/Cinema-Management-System-C)
+
+## 技术
+1. 链表.
+
+## 截图
+
+<img src="https://github.com/1anc3r/Cinema-Management-System-C/blob/master/Screenshots/screenshot_0.gif?raw=true" width = "466" height = "599" alt="1" />
+
+---
+
+# 8 Queen(八皇后)
+<img src="https://github.com/1anc3r/8-Queen/blob/master/queen.png?raw=true" width = "96" height = "96" alt="FileView"/>
+
+## 简介
+This is a Java program using the backtrack algorithm to achieve the 8 queen. 
+I study at the sophomore data structure, data structures and algorithms was very interested, so the combination of Java GUI created a 8 queen program. The program using the backtrack algorithm.
+
+## 功能
+1. Backtrack algorithm.
+2. Java GUI program.
+3. You can press left and right to switch solutions.
+
+## 截图
 <img src="https://github.com/1anc3r/8-Queen/blob/master/2017-04-23_15-33-15.gif" width = "329" height = "338" alt="FileView"/>
 
-# 马踏棋盘(Horse-Riding-Board)
-<img src="http://o7gy5l0ax.bkt.clouddn.com/horse.png" width = "96" height = "96" alt="FileView"/>
+---
 
-## 应用简介:
-大二学习算法和Java GUI的时候开发的项目。
+# Horse Riding Board(马踏棋盘)
+<img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/horse.png?raw=true" width = "96" height = "96" alt="FileView"/>
 
-[项目链接](https://github.com/1anc3r/Horse-Riding-Board)
+## 简介
+This is a Java program using the greedy algorithm to achieve the horse riding board. 
+I study at the sophomore data structure, data structures and algorithms was very interested, so the combination of Java GUI created a chessboard horse riding program. The program using the greedy algorithm, each time you select the direction of the current eight coordinates at least the next alternative paths as the next step, which is locally optimal solution.
 
-## 应用截图:
+## 功能
+1. Greedy algorithm.
+2. Java GUI program.
+
+## 截图
 <img src="https://github.com/1anc3r/Horse-Riding-Board/blob/master/2017-04-23_15-41-49.gif" width = "329" height = "338" alt="FileView"/>
 
-# Python图片爬虫(Pic-Spider)
-
-## 应用简介:
-大一学习Python的时候开发的项目。
-
-[项目链接](https://github.com/1anc3r/Pic-Spider)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160520203038.png" width = "400" height = "223" alt="File Management" />
-
-# 哈夫曼文件压缩器(File-Compression-Decompression)
-
-## 应用简介:
-大二学习数据结构与算法分析的课程设计。
-
-[项目链接](https://github.com/1anc3r/File-Compression-Decompression)
-
-## 应用截图:
-<img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160803215207.png" width = "400" height = "400" alt="1"/>
-
-# C语言多项式运算器(Polynomial-Function-Operator)
-
-## 应用简介:
-大二学习数据结构与算法分析的时候开发的项目，采用栈实现。
-
-[项目链接](https://github.com/1anc3r/Polynomial-Function-Operator)
-
-## 应用截图:
-暂无截图
-
-# C语言学生管理系统(Student-Management-System)
-
-## 应用简介:
-大一学习C语言链表的时候开发的项目，当时感觉写了超多代码😭
-
-[项目链接](https://github.com/1anc3r/Student-Management-System)
-
-## 应用截图:
-暂无截图
-
 ---
-# 关于
-### 组织
-<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_xiyoumobile.png" width = "100" height = "100" alt=""/>
-
-西安邮电大学移动应用开发实验室，亦称西安邮电大学3G手机应用开发实验室，创建于2011年，并被设为“Google 中国大学合作部--Android 人才培养示范基地”。实验室分为苹果iOS、谷歌Android、微软Windows Phone三个小组，是西安邮电大学唯一专注于移动平台应用开发的实验室。
-
-实验室位于西安邮电大学长安校区东区教学楼一层FZ155教室，设有多部移动应用开发设备，可供成员测试相关应用程序。Android开发组还配有由公司提供的Android底层开发箱，可用于开发和测试Android底层程序。
-
-### 作者
-<img src="http://o7gy5l0ax.bkt.clouddn.com/ic_lancer.jpg" width = "100" height = "100" alt=""/>
-
-我是1anc3r, 西安邮电大学计算机学院软件工程2018应届毕业生, 正在努力学习Android开发。联系我: huangfangzhi0@foxmail.com。
-
